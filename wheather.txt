@@ -1,0 +1,6 @@
+This are the wheathers.
+
+Sunny
+Rainy
+Cloudy
+Spring
