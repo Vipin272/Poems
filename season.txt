@@ -3,3 +3,4 @@ This is the Season
 Rainy
 Winter
 Summer
+Cloudy
